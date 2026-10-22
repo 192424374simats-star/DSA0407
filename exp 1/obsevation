@@ -1,0 +1,9 @@
+The average scores are calculated for all four subjects using NumPy's mean() function with axis=0.
+
+The argmax() function identifies the index of the subject with the highest average score.
+
+English has the highest average score of 88.75 marks.
+
+Therefore, English is the subject with the highest average performance.
+
+
